@@ -2,4 +2,5 @@
 job portal
 
 
-A great project to learn php....
+A simple PhP project on JOB PORTAL.
+It' s help to learn php easy 
